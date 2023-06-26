@@ -1,9 +1,3 @@
-# Another SvelteKit ChatGPT UI
-
-Video Link: https://ivanprojects.s3.us-west-1.amazonaws.com/Screen+Recording+2023-03-10+at+10.11.18+AM.mov
-
-![](https://i.imgur.com/gKu0MbX.png)
-
 ## Features
  - Formatted Markdown Responses
  - Persisted Chat History (Setup for local storage but able to be adapted)
